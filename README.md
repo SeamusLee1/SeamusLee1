@@ -23,7 +23,7 @@ An automated mechanical system designed to organize and dispense pills. This pro
 
 **Technology and methods used:** Mechanical design, automation concepts, mechanical components, and technical documentation.
 
-[View the Automated Pill Organizer Report](Automated%20Pill%20Organizer%20Report.pdf)
+[View the Automated Pill Organizer Report](https://github.com/SeamusLee1/SeamusLee1/blob/989ba16b1ec5f91cd2153fddab040e1125380535/Automated%20Pill%20Organizer%20Report.pdf)
 
 ### Automated Sump Pump Control System
 
@@ -31,7 +31,7 @@ An automated control system designed to monitor sump conditions and control pump
 
 **Technology and methods used:** Electrical controls, automation and control logic, monitoring systems, and technical documentation.
 
-[View the Automated Sump Pump Control System Report](Automated%20Sump%20Pump%20Control%20System%20Report.pdf)
+[View the Automated Sump Pump Control System Report](https://github.com/SeamusLee1/SeamusLee1/blob/989ba16b1ec5f91cd2153fddab040e1125380535/Automated%20Sump%20Pump%20Control%20System%20Report.pdf)
 
 ### Curious Arduino Box
 
@@ -39,7 +39,7 @@ An Arduino-based electronics project involving a microcontroller, programming, a
 
 **Technology and methods used:** Arduino, embedded programming, electronics, input and output devices, and hands-on prototyping.
 
-[View the Curious Arduino Box Report](Curious%20Arduino%20Box%20Report.pdf)
+[View the Curious Arduino Box Report](https://github.com/SeamusLee1/SeamusLee1/blob/989ba16b1ec5f91cd2153fddab040e1125380535/Curious%20Arduino%20Box%20Report.pdf)
 
 ### Hair Care Heat-Safety Station
 
@@ -47,7 +47,7 @@ A safety-focused engineering project designed to address heat-related risks asso
 
 **Technology and methods used:** Mechanical design, safety engineering, heat-management concepts, and technical documentation.
 
-[View the Hair Care Heat-Safety Station Report](Hair%20Care%20Heat-Safety%20Station%20Report.pdf)
+[View the Hair Care Heat-Safety Station Report](https://github.com/SeamusLee1/SeamusLee1/blob/989ba16b1ec5f91cd2153fddab040e1125380535/Hair%20Care%20Heat-Safety%20Station%20Report.pdf)
 
 ### Multi-Size Sheet Metal Can Bracket
 
@@ -55,7 +55,7 @@ A mechanical component designed to support cans of different sizes using sheet-m
 
 **Technology and methods used:** Sheet-metal design, mechanical design, mechanics of materials, component design, and fabrication methods.
 
-[View the Multi-Size Sheet Metal Can Bracket Report](Multi-Size%20Sheet%20Metal%20Can%20Bracket%20Report.pdf)
+[View the Multi-Size Sheet Metal Can Bracket Report](https://github.com/SeamusLee1/SeamusLee1/blob/989ba16b1ec5f91cd2153fddab040e1125380535/Multi-Size%20Sheet%20Metal%20Can%20Bracket%20Report.pdf)
 
 ### Vial Wash Line Jam Detection System
 
@@ -63,7 +63,7 @@ An industrial automation project designed to detect jams in a vial washing line 
 
 **Technology and methods used:** Industrial automation, jam-detection systems, sensors, control logic, and process monitoring.
 
-[View the Vial Wash Line Jam Detection System Report](Vial%20Wash%20Line%20Jam%20Detection%20System%20Report.pdf)
+[View the Vial Wash Line Jam Detection System Report](https://github.com/SeamusLee1/SeamusLee1/blob/989ba16b1ec5f91cd2153fddab040e1125380535/Vial%20Wash%20Line%20Jam%20Detection%20System%20Report.pdf)
 
 ## Engineering Interests
 
