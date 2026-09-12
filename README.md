@@ -63,7 +63,7 @@ An industrial automation project designed to detect jams in a vial washing line 
 
 **Technology and methods used:** Industrial automation, jam-detection systems, sensors, control logic, and process monitoring.
 
-[View the Vial Wash Line Jam Detection System Report]()
+[View the Vial Wash Line Jam Detection System Report](https://github.com/SeamusLee1/SeamusLee1/blob/1863aa0efad5bc84d1b73e46a93c94faad420a5f/Vial%20Wash%20Line%20Jam%20Detection%20System%20Report.pdf)
 
 ## Engineering Interests
 
